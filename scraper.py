@@ -21,7 +21,7 @@ while True:
         if response.status_code != 200:
             print("Http request has failed twice, terminating program")
             exit(1)
-
+            
     print("Request Sucessful")
 
     html_page = BeautifulSoup(response.text, "html.parser")
