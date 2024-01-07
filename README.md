@@ -1,4 +1,4 @@
-# Context
+# Project Info
 
 My webserver displays of the top 25 most active stocks from https://finance.yahoo.com/most-active and shows the user the varying data about that particular stock in the my webserver.
 
